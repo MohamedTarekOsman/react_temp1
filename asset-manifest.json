@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_temp1/static/css/main.b0fa6a5d.css",
+    "main.js": "/react_temp1/static/js/main.bbfcf3f8.js",
+    "static/media/3.jpg": "/react_temp1/static/media/3.461f1c70610b562c9560.jpg",
+    "static/media/best-about-us-pages.jpg": "/react_temp1/static/media/best-about-us-pages.fd91f913cd87e90a2430.jpg",
+    "static/media/2.jpg": "/react_temp1/static/media/2.918e5527c993de103296.jpg",
+    "static/media/خلفيات-كمبيوتر-موقع-محيط-_182048401_-__.jpg": "/react_temp1/static/media/خلفيات-كمبيوتر-موقع-محيط-_182048401_-__.f562ebb292dcc8421fd5.jpg",
+    "index.html": "/react_temp1/index.html",
+    "main.b0fa6a5d.css.map": "/react_temp1/static/css/main.b0fa6a5d.css.map",
+    "main.bbfcf3f8.js.map": "/react_temp1/static/js/main.bbfcf3f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0fa6a5d.css",
+    "static/js/main.bbfcf3f8.js"
+  ]
+}
